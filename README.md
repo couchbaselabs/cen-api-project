@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 <br /><br />
-[![Watch the video](./home.png)](https://youtu.be/jQcQlj-mWLs)
+[![Watch the video](./video.png)](https://youtu.be/jQcQlj-mWLs)
  
 This repository contains the 6 steps that you will create while following the lab in the video above
 
